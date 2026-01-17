@@ -17,7 +17,7 @@ To view usage help, use:
 recommend -h
 ```
 ### PyPI Link
-``` bash
+
 https://pypi.org/project/Recommender-Rakshita-102303498/0.2.1/
-```
+
 
