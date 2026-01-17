@@ -11,13 +11,13 @@ python app.py
 ## Screenshots
 
 ### Web Service Home Page
-![Web Service Home Page](screenshots/home_page.png)
+![Web Service Home Page](screenshots/Home_page.png)
 
 ### Filled Input Form
-![Filled Input Form](screenshots/filled_form.png)
+![Filled Input Form](screenshots/Filled_form.png)
 
 ### Successful Execution
-![Success Message](screenshots/success_message.png)
+![Success Message](screenshots/Success_message.png)
 
 ### Result Email Received
 ![Email Received](screenshots/email_received.png)
