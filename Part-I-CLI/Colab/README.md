@@ -1,5 +1,3 @@
-# Google Colab Notebook
-
 # Google Colab Notebook – TOPSIS Assignment
 
 ## Description
