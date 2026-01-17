@@ -20,5 +20,5 @@ python app.py
 ![Success Message](screenshots/Success_message.png)
 
 ### Result Email Received
-![Email Received](screenshots/email_received.png)
+![Email Received](screenshots/email_recieved.png)
 
