@@ -3,7 +3,6 @@
 ### Description
 A Python command-line program developed from scratch to compute TOPSIS scores and ranks for multiple alternatives based on user-defined weights and impacts.
 
----
 
 ### Usage
 ```bash
@@ -25,9 +24,9 @@ The output CSV file contains:
 3.Rank
 
 ### Validations Implemented
-1.Correct number of command-line arguments
-2.File not found handling
-3.Numeric validation for criteria columns
-4.Equal number of weights, impacts, and criteria
+1.Correct number of command-line arguments.
+2.File not found handling.
+3.Numeric validation for criteria columns.
+4.Equal number of weights, impacts, and criteria.
 5.Impacts must be either + or -
-6.Weights and impacts must be comma-separated
+6.Weights and impacts must be comma-separated.
