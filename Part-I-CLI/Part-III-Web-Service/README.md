@@ -8,6 +8,17 @@ The application can be started using:
 ```bash
 python app.py
 ```
-Once started, the service runs on:
+## Screenshots
 
-http://127.0.0.1:5001
+### Web Service Home Page
+![Web Service Home Page](screenshots/home_page.png)
+
+### Filled Input Form
+![Filled Input Form](screenshots/filled_form.png)
+
+### Successful Execution
+![Success Message](screenshots/success_message.png)
+
+### Result Email Received
+![Email Received](screenshots/email_received.png)
+
