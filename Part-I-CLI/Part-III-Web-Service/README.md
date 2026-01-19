@@ -22,3 +22,6 @@ python app.py
 ### Result Email Received
 ![Email Received](screenshots/email-recieved.pyb.png)
 
+### web service link
+
+https://topsis-flask-app.onrender.com
